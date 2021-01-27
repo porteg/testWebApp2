@@ -1,0 +1,1 @@
+Prueba con WAS tradicional en Openshift
